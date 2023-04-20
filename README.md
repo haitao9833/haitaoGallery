@@ -11,8 +11,8 @@
 - [ ] <img src="https://img.shields.io/badge/GFM-文字-ff5722.svg?colorB=00CD00" />
 - [x] <img src="https://img.shields.io/badge/GFM-表格-ff5722.svg?colorB=ff69b4" />
 - [x] <img src="https://img.shields.io/badge/GFM-图片-ff5722.svg?colorB=FFB6C1&" />
-- [ ] []()
-- [x] []()
+- [ ] [图片](/img-one/Git-流程.png)
+- [x] [文本](/img-one/空白.txt)
 
 
 ## 表格
