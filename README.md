@@ -5,10 +5,10 @@
 <img src="https://img.shields.io/badge/个人简历-模板-ff5722.svg?colorB=FFB6C1&logo=opsgenie" />
 
 
-# 常用表情记录:bangbang::bangbang::bangbang:
-# 
-# :boom:  🤗  :part_alternation_mark:  :wave:  :yawning_face:   :bookmark_tabs:  :bookmark:
-#  :point_down:   :point_up:   :raised_hands:   :clap:   :ideograph_advantage:   :secret:  :underage:
-# :question: :sparkles: :sweat_smile:   :smirk:   :cupid:   :heart:  🤔
-# :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
-# :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
+# 常用表情
+
+## :boom:  🤗  :part_alternation_mark:  :wave:  :yawning_face:   :bookmark_tabs:  :bookmark:
+##  :point_down:   :point_up:   :raised_hands:   :clap:   :ideograph_advantage:   :secret:  :underage:
+## :question: :sparkles: :sweat_smile:   :smirk:   :cupid:   :heart:  🤔
+## :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
+## :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
