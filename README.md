@@ -13,15 +13,13 @@
 - [x] <img src="https://img.shields.io/badge/GFM-图片-ff5722.svg?colorB=FFB6C1&" />
 
 ## 表格
-<div align="center">
 
 | A | B | C |
 | :- | :-: | -: |
 | AAA | BBB | CCC |
 | AAAAAA | BBBBBB | CCCCCC |
-| AAAAAAAAA | BBBBBBBBB | <img hspace="5px" width="400px" height="250px" src="/GRU模型手绘.png" /> |
+| AAAAAAAAA | BBBBBBBBB | <img hspace="5px" width="400px" height="250px" src="/文件icon.ico" /> |
 
-</div>
 
 ## 图片并排
 > [见图片](/GRU模型手绘.png)
