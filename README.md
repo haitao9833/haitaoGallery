@@ -44,3 +44,13 @@ public static void main(String[] args) {
 def print_hello_world():
     print('Hello, world!')
 ```
+
+
+public static void main(String[] args) {
+    int i;
+    String name;
+    StringBuffer str = new StringBuffer;
+    for (int i = 0 ; i < n ; i++) {
+        System.out.println(i);
+    }
+}
