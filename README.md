@@ -7,9 +7,8 @@
 
 # 常用表情记录
 
-# :smirk: :satisfied: :stuck_out_tongue_winking_eye: :sunglasses: :cupid: :star: :boom: :exclamation: :grey_question: :wave:🥱📑🔖
-# :fire: :point_down: :raised_hands: :clap: :fu: :open_hands: :question: :dizzy: :star2: :sparkles: :yum: :wink: :sweat_smile:
-# :ideograph_advantage: :egg: :cut_of_meat: :milk_glass: 📫
-
-
-
+# :boom:  :heavy_exclamation_mark:  :grey_question:  :wave:  🥱  :bookmark_tabs:  :bookmark: 
+# :fire:   :point_down:   :point_up:   :raised_hands:   :clap:  :open_hands:  :ideograph_advantage: 
+# :question: :dizzy: :star2: :sparkles: :sweat_smile:   :smirk:   :cupid: 
+# :egg: :cut_of_meat: :milk_glass: 📫  :underage:  :ideograph_advantage:  :secret: 
+# :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :part_alternation_mark: :bangbang:
