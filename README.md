@@ -15,11 +15,11 @@
 ## 表格
 > [见图片](/Typora.png)
 
-| A | B | C |
-| :- | :-: | -: |
-| AAA | BBB | CCC |
-| AAAAAA | BBBBBB | CCCCCC |
-| AAAAAAAAA | BBBBBBBBB | <img hspace="5px" width="100px" height="100px" src="/Typora.png" /> |
+| A | B | C | 图片 |
+| :- | :-: | -: | :-: |
+| AAA | BBB | CCC | <img hspace="5px" width="60px" height="60px" src="/Typora.ico" /> | 
+| AAAAAA | BBBBBB | CCCCCC | <img hspace="5px" width="60px" height="60px" src="/Typora.ico" /> |
+| AAAAAAAAA | BBBBBBBBB | CCCCCCCCC | <img hspace="5px" width="60px" height="60px" src="/Typora.png" /> |
 
 
 ## 图片并排
