@@ -11,9 +11,10 @@
 - [x] <img src="https://img.shields.io/badge/GFM-图片-ff5722.svg?colorB=FFB6C1&" />
 
 ## 图片
-> [见图片](/GRU-模型.png)
-<div align="center" style="display:flex;text-align:center;background:black;">
-		<img hspace="0px" vspace="0px" height="300px" width="300px" src="/GRU-模型.png" />
-		<img hspace="0px" vspace="0px" height="300px" width="300px" src="/GRU-模型.png" />
+> [见图片](/GRU 模型.png)
+<div align="center" style="display:flex">
+<img hspace="5px" width="300px" height="200px" src="/GRU 模型.png" />
+<img hspace="5px" width="300px" height="200px" src="/GRU 模型.png" />
+<img hspace="5px" width="300px" height="200px" src="/GRU 模型.png" />
 </div>
 
