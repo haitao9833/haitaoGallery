@@ -13,12 +13,13 @@
 - [x] <img src="https://img.shields.io/badge/GFM-图片-ff5722.svg?colorB=FFB6C1&" />
 
 ## 表格
+> [见图片](/Typora.png)
 
 | A | B | C |
 | :- | :-: | -: |
 | AAA | BBB | CCC |
 | AAAAAA | BBBBBB | CCCCCC |
-| AAAAAAAAA | BBBBBBBBB | <img hspace="5px" width="400px" height="250px" src="/文件icon.ico" /> |
+| AAAAAAAAA | BBBBBBBBB | <img hspace="5px" width="100px" height="100px" src="/Typora.png" /> |
 
 
 ## 图片并排
