@@ -13,7 +13,7 @@
 ## 图片
 > [见图片](/GRU模型手绘.png)
 <div align="center" style="display:flex">
-<img hspace="5px" width="500px" height="330px" src="/GRU模型手绘.png" />
-<img hspace="5px" width="500px" height="330px" src="/GRU模型手绘.png" />
+<img hspace="5px" width="400px" height="250px" src="/GRU模型手绘.png" />
+<img hspace="5px" width="400px" height="250px" src="/GRU模型手绘.png" />
 </div>
 
