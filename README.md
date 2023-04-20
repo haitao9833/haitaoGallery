@@ -11,6 +11,9 @@
 - [ ] <img src="https://img.shields.io/badge/GFM-文字-ff5722.svg?colorB=00CD00" />
 - [x] <img src="https://img.shields.io/badge/GFM-表格-ff5722.svg?colorB=ff69b4" />
 - [x] <img src="https://img.shields.io/badge/GFM-图片-ff5722.svg?colorB=FFB6C1&" />
+- [ ] []()
+- [x] []()
+
 
 ## 表格
 > [见图片](/Typora.png)
@@ -34,23 +37,8 @@
 public static void main(String[] args) {}
 ```
 
-```java
-public static void main(String[] args) {
-    System.out.println("Hello, World!");
-}
-```
-
 ```python
 def print_hello_world():
     print('Hello, world!')
 ```
 
-
-public static void main(String[] args) {
-    int i;
-    String name;
-    StringBuffer str = new StringBuffer;
-    for (int i = 0 ; i < n ; i++) {
-        System.out.println(i);
-    }
-}
