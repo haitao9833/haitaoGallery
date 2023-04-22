@@ -57,7 +57,7 @@
 # 表格模板
 
 <details>
-<summary>折叠标题</summary>
+<summary>折叠</summary>
 
 | 编号 | 英文 | 翻译 | 注释 |
 | :- | :-: | -: | -: |
