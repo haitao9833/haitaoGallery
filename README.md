@@ -24,21 +24,8 @@
   -  `One will do me.` 一份/块就够。
   -  `Never is a long word.` 不要轻易说“决不”。
 
-
-<details>
-<summary><h2>组一</h2></summary>
-
-| A | B | C |
-| :- | -: | -: |
-| `Try me.` | 放马过来吧| ... |
-| `Count me out.` | 不要把我算在内| ... |
-| `It's Greek to me.` | 对我而言简直如同天书| ... |
-| `You've got me there.` | 这你可把我难住了| ... |
-| `Match made in heaven.` | 天作之合；天生一对、天造地设的一对| ... |
-| A piece of cake. | 那还不是小菜一碟     | ... |
-| It depends. | 视情况而定     | ... |
-| One will <ins>do me.</ins> | 一份/块就够         | ... |
-| ***Never*** is a long word. | 不要轻易说“决不”     | ... |
-
-</details>
+## 组 01
+| 编号 | 英文 | 翻译 | 注释 |
+| :- | :-: | -: | -: |
+| ... | ... | ... | -: |
 
