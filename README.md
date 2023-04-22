@@ -26,7 +26,7 @@
 
 
 <details>
-<summary><h1>组一</h1></summary>
+<summary><h2>组一</h2></summary>
 
 | A | B | C |
 | :- | -: | -: |
