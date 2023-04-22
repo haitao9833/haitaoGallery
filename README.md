@@ -24,15 +24,6 @@
   -  `One will do me.` 一份/块就够。
   -  `Never is a long word.` 不要轻易说“决不”。
 
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
 | A | B | C |
 | :- | -: | -: |
