@@ -25,6 +25,9 @@
   -  `Never is a long word.` 不要轻易说“决不”。
 
 
+<details>
+<summary><h1>组一</h1></summary>
+
 | A | B | C |
 | :- | -: | -: |
 | `Try me.` | 放马过来吧| ... |
@@ -36,3 +39,6 @@
 | It depends. | 视情况而定     | ... |
 | One will <ins>do me.</ins> | 一份/块就够         | ... |
 | ***Never*** is a long word. | 不要轻易说“决不”     | ... |
+
+</details>
+
