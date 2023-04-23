@@ -12,10 +12,8 @@
 # :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
 # :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
 
-
 # 短句一
 
-## 组 01
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
 | 1 | `I married frontier technology.` | 一生致力于 |  |
