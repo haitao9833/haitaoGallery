@@ -45,8 +45,8 @@
 | 24 | `That's really more than I can tell you.` |  | 委婉含蓄地拒说 |
 | 25 | `A slow season` | 淡季 |  |
 | 26 | `A slow Sunday` | 一个悠闲的星期天 |  |
-| 27 | `Hope dies slowly.` | 迟迟不肯放弃希望、过了很长时间还抱有希望 |  |
-| 28 | `Only slowly have they begun to realize their mistake.` | 迟迟没有认识到错误、过了很长时间才认识到 |  |
+| 27 | `Hope dies slowly.` | 迟迟不肯放弃希望 |  |
+| 28 | `Only slowly have they begun to realize their mistake.` | 迟迟没有认识到错误 |  |
 | 29 | `What's in your mind?` | 你在想什么 |  |
 | 30 | `What's on your mind?` | 你在愁什么 |  |
 | 31 | `He made a great difference.` | 有他没他，大不一样 |  |
@@ -67,6 +67,7 @@
 | 46 | `She read love into his sympathy.` | 牵强附会 | read into |
 | 47 | `no fewer than` | 多达（强调多） | 反向修辞强调 |
 | 48 | `no more than` | 仅有（强调少） |  |
+| 49 | `no wiser than` |  |  |
 
 # 表格模板
 
