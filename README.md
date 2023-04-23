@@ -19,7 +19,7 @@
 ## 组 01
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
-| 1 | `I married frontier technology.` | 一生致力于前沿科技 |  |
+| 1 | `I married frontier technology.` | 一生致力于 |  |
 | 2 | `Count me in/out.` | 算我一个 |  |
 | 3 | `It's Greek to me.` | 如同天书 |  |
 | 4 | `You've got me there.` | 这可难住我了 |  |
@@ -30,18 +30,18 @@
 | 9 | `Never is a long word.` | 不要轻易说决不 |  |
 | 10 | `You really flatter me.` | 过誉过奖了 |  |
 | 11 | `His work really beats nature!` | 巧夺天工 |  |
-| 12 | `Success is often an idea away.` | 成功与否往往只是一念之差 | away |
+| 12 | `Success is often an idea away.` | 成功与否一念之差 | away |
 | 13 | `You have my sympathy.` | 深表同情 |  |
 | 14 | `She has a weakness for chocolate.` | 她特别爱吃巧克力 |  |
 | 15 | `Somebody has talked.` | 告密 |  |
 | 16 | `Cry and you cry alone.` | 泪来自承担 | :clap: |
 | 17 | `Haste makes waste.` | 欲速则不达 |  |
-| 18 | `A dreamboat.` | 理想型、梦中情人 | :clap: |
+| 18 | `A dreamboat.` | 理想型 | :clap: |
 | 19 | `The facts will tell.` | 用事实说话 |  |
-| 20 | `There are friends and friends.` | 朋友跟朋友不一样 | 质地优劣不同 |
+| 20 | `There are friends and friends.` | 朋友跟朋友不一样 | 质地优劣 |
 | 21 | `Of soup and love , the first is the best.` | 第一次最好 |  |
 | 22 | `After much labor.` | 费了好大的劲 |  |
-| 23 | `He is being polite.` | 眼下显得挺有礼貌的样子 | 进行时暗示暂时情况 |
+| 23 | `He is being polite.` | 眼下有礼貌 | 进行时暗示暂时情况 |
 | 24 | `That's really more than I can tell you.` |  | 委婉含蓄地拒说 |
 | 25 | `A slow season` | 淡季 |  |
 | 26 | `A slow Sunday` | 一个悠闲的星期天 |  |
@@ -51,13 +51,13 @@
 | 30 | `What's on your mind?` | 你在愁什么 |  |
 | 31 | `He made a great difference.` | 有他没他，大不一样 |  |
 | 32 | `There is no smoke without fire.` | 无风不起浪 |  |
-| 33 | `There is no fire without smoke.` | 没有不冒烟的火、凡事有利有弊 |  |
+| 33 | `There is no fire without smoke.` | 凡事有利有弊 |  |
 | 34 | `Then come and kiss me , sweet and twenty.` |  | |
 | 35 | `He is a green hand.` | 新手 | |
-| 36 | `She is more crying than laughing.` | 与其说是在笑，不如说是在哭 | |
+| 36 | `She is more crying than laughing.` | 与其说是笑，不如说是哭 | |
 | 37 | `He is a heavy smoker.` |  | |
 | 38 | `He is an early riser.` | 起得很早 | 英语表达喜欢用名词 |
-| 39 | `Calculation never made a hero.` | 举棋不定成不了英雄 |  |
+| 39 | `Calculation never made a hero.` | 举棋不定 |  |
 | 40 | `Plenty of vegetable will do you good.` | 多吃蔬菜有好处 |  |
 | 41 | `That's streets cheaper.` | 便宜多了 | streets （adv） |
 | 42 | `He was way ahead / behind.` | 大大领先/落后 | way（adv） |
