@@ -12,7 +12,7 @@
 # :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
 # :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
 
-# 短句一
+# 短句
 
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
