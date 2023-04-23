@@ -12,10 +12,9 @@
 # :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
 # :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
 
-# 短句一
 
-- 🤗 代表最喜欢
-- :clap: 表示喜欢
+
+# 短句一
 
 ## 组 01
 | 编号 | 英文 | 翻译 | 备注 |
@@ -33,8 +32,8 @@
 | 11 | `His work really beats nature!` | 巧夺天工 |  |
 | 12 | `Success is often an idea away.` | 成功与否往往只是一念之差 | away |
 | 13 | `You have my sympathy.` | 深表同情 |  |
-| 14 | `That was a forward remark.` | 这句话有点过分、冒失、放肆 |  |
-| 15 |  |                                              |  |
+| 14 | `She has a weakness for chocolate.` | 她特别爱吃巧克力 |  |
+| 15 | `Somebody has talked.` | 告密 |  |
 | 16 | `Cry and you cry alone.` | 泪来自承担 | :clap: |
 | 17 | `Haste makes waste.` | 欲速则不达 |  |
 | 18 | `A dreamboat.` | 理想型、梦中情人 | :clap: |
@@ -42,17 +41,32 @@
 | 20 | `There are friends and friends.` | 朋友跟朋友不一样 | 质地优劣不同 |
 | 21 | `Of soup and love , the first is the best.` | 第一次最好 |  |
 | 22 | `After much labor.` | 费了好大的劲 |  |
-| 23 | `He is being polite.` | 他只是眼下显得挺有礼貌的样子 | 进行时暗示暂时情况 |
+| 23 | `He is being polite.` | 眼下显得挺有礼貌的样子 | 进行时暗示暂时情况 |
 | 24 | `That's really more than I can tell you.` |  | 委婉含蓄地拒说 |
 | 25 | `A slow season` | 淡季 |  |
 | 26 | `A slow Sunday` | 一个悠闲的星期天 |  |
 | 27 | `Hope dies slowly.` | 迟迟不肯放弃希望、过了很长时间还抱有希望 |  |
-| 28 | `Only slowly have they begun to realize their mistake.` | 迟迟没有认识到错误、过了很长时间才认识到错误 |  |
+| 28 | `Only slowly have they begun to realize their mistake.` | 迟迟没有认识到错误、过了很长时间才认识到 |  |
 | 29 | `What's in your mind?` | 你在想什么 |  |
 | 30 | `What's on your mind?` | 你在愁什么 |  |
-| 31 |                                                         |                                              |  |
+| 31 | `He made a great difference.` | 有他没他，大不一样 |  |
 | 32 | `There is no smoke without fire.` | 无风不起浪 |  |
 | 33 | `There is no fire without smoke.` | 没有不冒烟的火、凡事有利有弊 |  |
+| 34 | `Then come and kiss me , sweet and twenty.` |  | |
+| 35 | `He is a green hand.` | 新手 | |
+| 36 | `She is more crying than laughing.` | 与其说是在笑，不如说是在哭 | |
+| 37 | `He is a heavy smoker.` |  | |
+| 38 | `He is an early riser.` | 起得很早 | 英语表达喜欢用名词 |
+| 39 | `Calculation never made a hero.` | 举棋不定成不了英雄 |  |
+| 40 | `Plenty of vegetable will do you good.` | 多吃蔬菜有好处 |  |
+| 41 | `That's streets cheaper.` | 便宜多了 | streets （adv） |
+| 42 | `He was way ahead / behind.` | 大大领先/落后 | way（adv） |
+| 43 | `She is all legs.` | 细长高挑 |  |
+| 44 | `He is all smiles/eyes/attention/tears/muscle.` |  |  |
+| 45 | `You read too much into the text.` | 过度理解 | read into |
+| 46 | `She read love into his sympathy.` | 牵强附会 | read into |
+| 47 | `no fewer than` | 多达（强调多） | 反向修辞强调 |
+| 48 | `no more than` | 仅有（强调少） |  |
 
 # 表格模板
 
