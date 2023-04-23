@@ -20,7 +20,7 @@
 ## 组 01
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
-| 1 | `Try me.` | 放马过来 |  |
+| 1 | `I married frontier technology.` | 一生致力于前沿科技 |  |
 | 2 | `Count me in/out.` | 算我一个 |  |
 | 3 | `It's Greek to me.` | 如同天书 |  |
 | 4 | `You've got me there.` | 这可难住我了 |  |
@@ -30,16 +30,16 @@
 | 8 | `One will do me.` | 一份就够 | :clap: |
 | 9 | `Never is a long word.` | 不要轻易说决不 |  |
 | 10 | `You really flatter me.` | 过誉过奖了 |  |
-| 11 | `I married frontier technology.` | 一生致力于前沿科技 | 🤗 |
+| 11 | `His work really beats nature!` | 巧夺天工 |  |
 | 12 | `Success is often an idea away.` | 成功与否往往只是一念之差 | away |
 | 13 | `You have my sympathy.` | 深表同情 |  |
 | 14 | `That was a forward remark.` | 这句话有点过分、冒失、放肆 |  |
-| 15 | `Words failed me.` | 无语 |  |
+| 15 |  |                                              |  |
 | 16 | `Cry and you cry alone.` | 泪来自承担 | :clap: |
 | 17 | `Haste makes waste.` | 欲速则不达 |  |
 | 18 | `A dreamboat.` | 理想型、梦中情人 | :clap: |
-| 19 | `The facts will tell` | 用事实说话 |  |
-| 20 | `There are friends and friends.` | 朋友跟朋友不一样 | 同一事物质地的优劣不同 |
+| 19 | `The facts will tell.` | 用事实说话 |  |
+| 20 | `There are friends and friends.` | 朋友跟朋友不一样 | 质地优劣不同 |
 | 21 | `Of soup and love , the first is the best.` | 第一次最好 |  |
 | 22 | `After much labor.` | 费了好大的劲 |  |
 | 23 | `He is being polite.` | 他只是眼下显得挺有礼貌的样子 | 进行时暗示暂时情况 |
@@ -50,7 +50,7 @@
 | 28 | `Only slowly have they begun to realize their mistake.` | 迟迟没有认识到错误、过了很长时间才认识到错误 |  |
 | 29 | `What's in your mind?` | 你在想什么 |  |
 | 30 | `What's on your mind?` | 你在愁什么 |  |
-| 31 | `as thin as six o'clock` | 形容瘦得如同时钟分钟上下一条直线 |  |
+| 31 |                                                         |                                              |  |
 | 32 | `There is no smoke without fire.` | 无风不起浪 |  |
 | 33 | `There is no fire without smoke.` | 没有不冒烟的火、凡事有利有弊 |  |
 
