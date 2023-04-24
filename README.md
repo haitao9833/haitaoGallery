@@ -1,15 +1,12 @@
 # 模板分享（绘图 & PPT）
-
-<img src="https://img.shields.io/badge/draw.io-绘图-ff5722.svg?colorB=00CD00&logo=diagramsdotnet" />
-<img src="https://img.shields.io/badge/PPT-幻灯片-ff5722.svg?colorB=ff69b4&logo=wasmer" />
-<img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorB=FFB6C1&logo=microsoftonenote" />
+<img src="https://img.shields.io/badge/笔记 & 模板分享-孙子兵法 | draw.io | PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 
 # 常用表情
 
-##  🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:
-##  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:  :wave:  :ideograph_advantage:   :secret:  :underage:
-## :grey_question: :question: :bangbang: :sparkles: :boom: :part_alternation_mark:  :fire: :zap: :bell:    :cupid:   :heart: 
-## :egg: :cut_of_meat: :milk_glass: :mailbox:  :scroll: :ledger:  :chart_with_upwards_trend: 
+## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:
+## :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
+## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart: 
+## :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
 
 
 # 英语短句
