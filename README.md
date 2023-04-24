@@ -9,6 +9,10 @@
 ## :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
 
 
+```math
+闻雷霆\Rightarrow\left\{\begin{aligned}&\text{闻雷霆不为聪耳}\\&\text{闻雷霆}\\&\text{闻雷霆}\end{aligned}\right.
+```
+
 # 英语短句
 
 | 编号 | 英文 | 翻译 | 备注 |
