@@ -12,6 +12,9 @@
 # :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
 # :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
 
+```math
+\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.
+```
 
 # 短句
 
