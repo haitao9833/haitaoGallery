@@ -6,25 +6,13 @@
 
 # 常用表情
 
-# :boom:  🤗  :part_alternation_mark:  :wave:  :yawning_face:   :bookmark_tabs:  :bookmark:
-#  :point_down:   :point_up:   :raised_hands:   :clap:   :ideograph_advantage:   :secret:  :underage:
-# :question: :sparkles: :sweat_smile:   :smirk:   :cupid:   :heart:  🤔
-# :egg: :cut_of_meat: :milk_glass: :mailbox:   :fire:   :open_hands:  🧐
-# :zap: :bell:  :scroll: :ledger:  :chart_with_upwards_trend: :grey_question:  :bangbang:
+##  🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:
+##  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:  :wave:  :ideograph_advantage:   :secret:  :underage:
+## :grey_question: :question: :bangbang: :sparkles: :boom: :part_alternation_mark:  :fire: :zap: :bell:    :cupid:   :heart: 
+## :egg: :cut_of_meat: :milk_glass: :mailbox:  :scroll: :ledger:  :chart_with_upwards_trend: 
 
-## 一
 
-$$
-\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.
-$$
-
-## 二
-
-```math
-\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\Rightarrow\left\{\begin{aligned}&\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.\\&\\&\end{aligned}\right.
-```
-
-# 短句
+# 英语短句
 
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
@@ -94,30 +82,7 @@ $$
 | 7 |  |  |  |
 | 8 |  |  |  |
 | 9 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
-| 15 |  |  |  |
-| 16 |  |  |  |
-| 17 |  |  |  |
-| 18 |  |  |  |
-| 19 |  |  |  |
-| 20 |  |  |  |
-| 21 |  |  |  |
-| 22 |  |  |  |
-| 23 |  |  |  |
-| 24 |  |  |  |
-| 25 |  |  |  |
-| 26 |  |  |  |
-| 27 |  |  |  |
-| 28 |  |  |  |
-| 29 |  |  |  |
-| 30 |  |  |  |
-| 31 |  |  |  |
-| 32 |  |  |  |
-| 33 |  |  |  |
+| 0 |  |  |  |
 
 </details>
 
