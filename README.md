@@ -1,6 +1,7 @@
-# 模板分享（绘图 & PPT）
+# 模板分享 & 英语笔记
 <img src="https://img.shields.io/badge/模板分享-draw.io-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 <img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFFAFA&colorB=ff69b4&logo=" />
 
 # 常用表情
 
