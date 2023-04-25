@@ -1,17 +1,11 @@
 # 模板分享（绘图 & PPT）
-<img src="https://img.shields.io/badge/笔记 & 模板分享-孙子兵法 | draw.io | PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/模板分享-draw.io-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 
 # 常用表情
 
-## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:
-## :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
-## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart: 
-## :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
-
-
-```math
-闻雷霆\Rightarrow\left\{\begin{aligned}&\text{闻雷霆不为聪耳}\\&\text{闻雷霆}\\&\text{闻雷霆}\end{aligned}\right.
-```
+## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
+## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart:   :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
 
 # 英语短句
 
