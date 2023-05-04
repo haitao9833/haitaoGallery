@@ -3,6 +3,26 @@
 <img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 <img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFFAFA&colorB=ff69b4&logo=livechat" />
 
+# 绘图模板
+
+## 神经网络
+
+<div align="center" style="display:flex">
+		<img width="400px" height="270px" src="draw01.png" title="神经网络结构" alt="神经网络结构" />
+</div>
+
+## GRU 网络
+
+<div align="center" style="display:flex">
+		<img width="500px" height="330px" src="draw02.png"/>
+</div>
+
+## Sentence-BERT
+
+<div align="center" style="display:flex">
+		<img width="500px" height="466px" src="draw03.png"/>
+</div>
+
 # 常用表情
 
 ## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
