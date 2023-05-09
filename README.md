@@ -18,8 +18,9 @@
 
 # 01
 
+> 与其说 **...** ，不说如 **...**
+
 - She is **more** crying **than** laughing.
-  - 与其说她是在笑，不如说她是在哭
   - You are **more** a artist **than** a **...**
 
 
