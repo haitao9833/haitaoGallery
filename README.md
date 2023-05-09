@@ -9,8 +9,8 @@
 <div align="center" style="display:flex">
     <img width="400px" height="260px" src="draw01.png" title="神经网络结构" alt="神经网络结构" />
     <img width="400px" height="260px" src="draw02.png"/>
-    <img width="300px" height="300px" src="draw03.png"/>
 </div>
+
 
 # 英语短句
 
@@ -26,6 +26,18 @@
   - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>......</ins>** 
 
 
+
+# -------------------------
+
+ $\Rightarrow$ 
+
+ $\Rightarrow\left\{\begin{aligned}&\\&\\&\end{aligned}\right.$  
+
+<font style="color:red">
+
+「」
+
+『』
 
 
 
