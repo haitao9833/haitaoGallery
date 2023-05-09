@@ -14,14 +14,14 @@
 
 # 英语短句
 
-> - 十句话一组
+> - 十句一组
 
-# 01
+## 01
 
-> 与其说 **...** ，不说如 **...**
+> 与其说 **...** ，不说如 **...** 
 
-- She is **more** crying **than** laughing.
-  - You are **more** a artist **than** a **...**
+- She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
+  - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **...**
 
 
 
