@@ -15,13 +15,14 @@
 # 英语短句
 
 > - 十句一组
+> - `**<ins></ins>**`
 
 ## 01
 
 > 与其说 **...** ，不说如 **...** 
 
 - She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
-  - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **...**
+  - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>......</ins>** 
 
 
 
