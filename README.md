@@ -30,6 +30,15 @@
 
 # 英语短句
 
+> - 十句话一组
+
+# 01
+
+> - `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
+> - 
+
+# 表格
+
 | 编号 | 英文 | 翻译 | 备注 |
 | :- | :- | -: | -: |
 | 1 | `I married frontier technology.` | 一生致力于 |  |
@@ -67,7 +76,7 @@
 | 33 | `There is no fire without smoke.` | 凡事有利有弊 |  |
 | 34 | `Then come and kiss me , sweet and twenty.` |  | |
 | 35 | `He is a green hand.` | 新手 | |
-| 36 | `She is more crying than laughing.` | 与其说是在笑 | 不如说是在哭 |
+| 36 |  |                    |  |
 | 37 | `He is a heavy smoker.` |  | |
 | 38 | `He is an early riser.` | 起得很早 | 英语表达喜欢用名词 |
 | 39 | `Calculation never made a hero.` | 举棋不定 |  |
