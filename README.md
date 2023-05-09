@@ -34,8 +34,16 @@
 
 # 01
 
-> - `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
-> - 
+1. `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
+
+
+
+1. She is more crying than laughing.
+   - 与其说她是在笑，不如说她是在哭）
+
+
+
+- `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
 
 # 表格
 
