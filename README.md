@@ -19,9 +19,10 @@
 
 ## 01
 
-> 与其说 **...** ，不说如 **...** 
+- 与其说 **...** ，不说如 **...** 
 
-- She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
+  - She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
+
   - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>......</ins>** 
 
 
