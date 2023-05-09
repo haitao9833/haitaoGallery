@@ -1,32 +1,16 @@
-# draw.io 绘图 & PPT 模板分享 & 英语笔记
+<center><h1>绘图模板 & 英语笔记</h1></center>
+
 <img src="https://img.shields.io/badge/模板分享-draw.io-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 <img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
 <img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFFAFA&colorB=ff69b4&logo=livechat" />
 
-# 绘图模板
-
-## 神经网络
+# 神经网络
 
 <div align="center" style="display:flex">
-		<img width="400px" height="270px" src="draw01.png" title="神经网络结构" alt="神经网络结构" />
+    <img width="400px" height="260px" src="draw01.png" title="神经网络结构" alt="神经网络结构" />
+    <img width="400px" height="260px" src="draw02.png"/>
+    <img width="300px" height="300px" src="draw03.png"/>
 </div>
-
-## GRU 网络
-
-<div align="center" style="display:flex">
-		<img width="500px" height="330px" src="draw02.png"/>
-</div>
-
-## Sentence-BERT
-
-<div align="center" style="display:flex">
-		<img width="500px" height="466px" src="draw03.png"/>
-</div>
-
-# 常用表情
-
-## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
-## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart:   :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
 
 # 英语短句
 
@@ -34,16 +18,13 @@
 
 # 01
 
-1. `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
+- She is **more** crying **than** laughing.
+  - 与其说她是在笑，不如说她是在哭
+  - You are **more** a artist **than** a **...**
 
 
 
-1. She is more crying than laughing.
-   - 与其说她是在笑，不如说她是在哭）
 
-
-
-- `She is more crying than laughing.`（与其说她是在笑，不如说她是在哭）
 
 # 表格
 
@@ -119,3 +100,8 @@
 
 </details>
 
+# 常用表情
+
+## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
+
+## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart:   :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
