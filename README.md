@@ -1,8 +1,10 @@
 # <p align="center">绘图模板分析 & 英语笔记</p>
 
-<img src="https://img.shields.io/badge/模板分享-draw.io-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
-<img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
-<img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFFAFA&colorB=ff69b4&logo=livechat" />
+<div align="center">
+    <img src="https://img.shields.io/badge/模板分享-draw.io-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
+    <img src="https://img.shields.io/badge/模板分享-PPT-ff5722.svg?colorA=FFFAFA&colorB=ff69b4" />
+    <img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFFAFA&colorB=ff69b4&logo=livechat" />
+</div>
 
 # 神经网络
 
