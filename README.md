@@ -38,7 +38,11 @@
 
 『』
 
+# 常用表情
 
+## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
+
+## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart:   :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
 
 # 表格
 
@@ -113,9 +117,3 @@
 | 0 |  |  |  |
 
 </details>
-
-# 常用表情
-
-## 🤗  :sweat_smile:   :smirk:  🤔🧐    :yawning_face:   :bookmark_tabs:  :bookmark:  :point_down:   :point_up:   :raised_hands:   :clap: :open_hands:   :wave:  :ideograph_advantage:   :secret:  :underage:
-
-## :sparkles:   :boom:   :part_alternation_mark:  :fire:   :zap:   :bell:    :cupid:   :heart:   :egg:   :cut_of_meat:   :milk_glass: :mailbox:    :scroll:   :ledger:   :chart_with_upwards_trend:   :question: :bangbang:
