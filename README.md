@@ -22,7 +22,7 @@
 
   - She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
 
-  - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>......</ins>** 
+  - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>.....</ins>** 
 
 
 
@@ -31,8 +31,6 @@
 **<ins></ins>**
 
  $\Rightarrow$ 
-
- $\Rightarrow\left\{\begin{aligned}&\\&\\&\end{aligned}\right.$  
 
 <font style="color:red">
 
