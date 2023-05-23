@@ -23,7 +23,8 @@
   - She is **<ins>more</ins>** crying **<ins>than</ins>** laughing.
 
   - You are **<ins>more</ins>** an artist **<ins>than</ins>** a **<ins>.....</ins>** 
-
+- 宜早不宜迟
+  - Sooner rather than later.
 
 
 # -------------------------
